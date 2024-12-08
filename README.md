@@ -21,12 +21,12 @@ Este proyecto es una aplicación de gestión de tareas desarrollada con Ionic-Re
 ## Instalación y Configuración
 1. **Clona el repositorio**:
    ```bash
-   git clone https://github.com/tu-usuario/gestor-tareas-ionic-react.git
+   git clone https://github.com/M1CK3R/proyecto_idam
    ```
 
 2. **Accede a la carpeta del proyecto**:
    ```bash
-   cd gestor-tareas-ionic-react
+   cd proyecto_idam
    ```
 
 3. **Instala las dependencias**:
