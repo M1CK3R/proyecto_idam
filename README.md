@@ -1,4 +1,4 @@
-# Gestor de Tareas con Ionic-React
+# To-do-list App
 
 Este proyecto es una aplicación de gestión de tareas desarrollada con Ionic-React. Permite a los usuarios crear, listar y eliminar tareas, además de marcarlas como completadas. La aplicación ofrece una interfaz moderna y fácil de usar.
 
